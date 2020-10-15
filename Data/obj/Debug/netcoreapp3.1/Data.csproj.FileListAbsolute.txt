@@ -1,9 +1,0 @@
-C:\Users\jamies pc\source\repos\MVP\Data\bin\Debug\netcoreapp3.1\Data.deps.json
-C:\Users\jamies pc\source\repos\MVP\Data\bin\Debug\netcoreapp3.1\Data.dll
-C:\Users\jamies pc\source\repos\MVP\Data\bin\Debug\netcoreapp3.1\Data.pdb
-C:\Users\jamies pc\source\repos\MVP\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
-C:\Users\jamies pc\source\repos\MVP\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
-C:\Users\jamies pc\source\repos\MVP\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
-C:\Users\jamies pc\source\repos\MVP\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
-C:\Users\jamies pc\source\repos\MVP\Data\obj\Debug\netcoreapp3.1\Data.dll
-C:\Users\jamies pc\source\repos\MVP\Data\obj\Debug\netcoreapp3.1\Data.pdb
